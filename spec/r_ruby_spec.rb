@@ -1,8 +1,8 @@
 require "spec_helper"
 
-RSpec.describe RRuby do
+RSpec.describe R do
   it "has a version number" do
-    expect(RRuby::VERSION).not_to be nil
+    expect(R::VERSION).not_to be nil
   end
 
   it "does something useful" do

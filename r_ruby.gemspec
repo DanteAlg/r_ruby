@@ -5,7 +5,7 @@ require 'r_ruby/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "r_ruby"
-  spec.version       = RRuby::VERSION
+  spec.version       = R::VERSION
   spec.authors       = ["Dante Santos"]
   spec.email         = ["dante.alighierimds@gmail.com"]
 

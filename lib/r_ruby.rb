@@ -1,5 +1,5 @@
 require "r_ruby/version"
 
-module RRuby
+module R
   # Your code goes here...
 end
